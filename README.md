@@ -2,7 +2,7 @@
 
 **`Administrador & Estudante de Automações/IA`**
 
-Me chamo Luiz Otávio, tenho 22 anos e moro atualmente em Viçosa - MG. Concluí o ensino médio na CEDAF - Florestal, junto ao curso Técnico em Informática - TI. Atualmente, estou formando em Administração na UFV-Viçosa. Além disso, estou em busca por aprimoramentos e estudos na área da inteligência artificial e tecnologia".
+Me chamo Luiz Otávio e tenho 23 anos. Concluí o ensino médio na CEDAF - Florestal, junto ao curso Técnico em Informática - TI. Sou formado em Administração na UFV-Viçosa. Além disso, estou em busca por aprimoramentos e estudos na área da inteligência artificial e tecnologia".
 
 <p align="left">
     
